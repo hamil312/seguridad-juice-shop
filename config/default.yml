@@ -4,7 +4,7 @@ server:
   baseUrl: 'http://localhost:3000' # used for CSAF, e.g. https://example.com
 application:
   domain: juice-sh.op # for pre-loaded email users
-  name: 'OWASP Juice Shop'
+  name: 'OWASP Juice Shop Hamilton Insandara y Mario Santacruz'
   logo: JuiceShop_Logo.png
   favicon: favicon_js.ico
   theme: blue-lightblue # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
@@ -16,7 +16,7 @@ application:
   privacyContactEmail: donotreply@owasp-juice.shop
   customMetricsPrefix: juiceshop
   chatBot:
-    name: 'Juicy'
+    name: 'El Jugos'
     greeting: "Nice to meet you <customer-name>, I'm <bot-name>"
     trainingData: 'botDefaultTrainingData.json'
     defaultResponse: "Sorry I couldn't understand what you were trying to say"
